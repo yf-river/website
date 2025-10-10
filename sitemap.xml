@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://huyunfei-blog.github.io/website/about/index.html</loc>
+    <loc>https://huyunfei.cn/about/index.html</loc>
     
     <lastmod>2025-10-10</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://huyunfei-blog.github.io/website/tags/index.html</loc>
+    <loc>https://huyunfei.cn/tags/index.html</loc>
     
     <lastmod>2025-10-09</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://huyunfei-blog.github.io/website/categories/index.html</loc>
+    <loc>https://huyunfei.cn/categories/index.html</loc>
     
     <lastmod>2025-10-09</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://huyunfei-blog.github.io/website/2024/09/08/Carsh-Course-%E5%A6%82%E4%BD%95%E5%AD%A6%E4%B9%A0%E6%8A%80%E8%83%BD%EF%BC%9F/</loc>
+    <loc>https://huyunfei.cn/2024/09/08/Carsh-Course-%E5%A6%82%E4%BD%95%E5%AD%A6%E4%B9%A0%E6%8A%80%E8%83%BD%EF%BC%9F/</loc>
     
     <lastmod>2025-10-09</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://huyunfei-blog.github.io/website/2024/08/30/Hexo-Pages-Redefine-Giscus%E5%BB%BA%E7%AB%8B%E4%B8%AA%E4%BA%BA%E7%AB%99%E7%82%B9/</loc>
+    <loc>https://huyunfei.cn/2024/08/30/Hexo-Pages-Redefine-Giscus%E5%BB%BA%E7%AB%8B%E4%B8%AA%E4%BA%BA%E7%AB%99%E7%82%B9/</loc>
     
     <lastmod>2025-10-09</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>https://huyunfei-blog.github.io/website/2024/09/04/%E5%8D%A1%E7%89%87%E6%8A%BD%E8%AE%A4%E7%AE%B1/</loc>
+    <loc>https://huyunfei.cn/2024/09/04/%E5%8D%A1%E7%89%87%E6%8A%BD%E8%AE%A4%E7%AE%B1/</loc>
     
     <lastmod>2025-10-09</lastmod>
     
@@ -57,7 +57,7 @@
   
 
   <url>
-    <loc>https://huyunfei-blog.github.io/website</loc>
+    <loc>https://huyunfei.cn/</loc>
     <lastmod>2025-10-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -65,70 +65,70 @@
 
   
   <url>
-    <loc>https://huyunfei-blog.github.io/website/tags/Carsh-Course%E9%80%9F%E6%88%90%E8%AF%BE/</loc>
+    <loc>https://huyunfei.cn/tags/Carsh-Course%E9%80%9F%E6%88%90%E8%AF%BE/</loc>
     <lastmod>2025-10-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://huyunfei-blog.github.io/website/tags/%E5%AD%A6%E4%B9%A0/</loc>
+    <loc>https://huyunfei.cn/tags/%E5%AD%A6%E4%B9%A0/</loc>
     <lastmod>2025-10-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://huyunfei-blog.github.io/website/tags/%E8%AE%B0%E5%BF%86/</loc>
+    <loc>https://huyunfei.cn/tags/%E8%AE%B0%E5%BF%86/</loc>
     <lastmod>2025-10-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://huyunfei-blog.github.io/website/tags/%E8%AE%B0%E7%AC%94%E8%AE%B0/</loc>
+    <loc>https://huyunfei.cn/tags/%E8%AE%B0%E7%AC%94%E8%AE%B0/</loc>
     <lastmod>2025-10-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://huyunfei-blog.github.io/website/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</loc>
+    <loc>https://huyunfei.cn/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</loc>
     <lastmod>2025-10-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://huyunfei-blog.github.io/website/tags/Hexo/</loc>
+    <loc>https://huyunfei.cn/tags/Hexo/</loc>
     <lastmod>2025-10-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://huyunfei-blog.github.io/website/tags/GitHub/</loc>
+    <loc>https://huyunfei.cn/tags/GitHub/</loc>
     <lastmod>2025-10-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://huyunfei-blog.github.io/website/tags/Redefine/</loc>
+    <loc>https://huyunfei.cn/tags/Redefine/</loc>
     <lastmod>2025-10-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://huyunfei-blog.github.io/website/tags/Giscus/</loc>
+    <loc>https://huyunfei.cn/tags/Giscus/</loc>
     <lastmod>2025-10-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://huyunfei-blog.github.io/website/tags/%E5%8D%A1%E7%89%87%E6%8A%BD%E8%AE%A4/</loc>
+    <loc>https://huyunfei.cn/tags/%E5%8D%A1%E7%89%87%E6%8A%BD%E8%AE%A4/</loc>
     <lastmod>2025-10-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -137,21 +137,21 @@
 
   
   <url>
-    <loc>https://huyunfei-blog.github.io/website/categories/Carsh-Couse%E9%80%9F%E6%88%90%E8%AF%BE/</loc>
+    <loc>https://huyunfei.cn/categories/Carsh-Couse%E9%80%9F%E6%88%90%E8%AF%BE/</loc>
     <lastmod>2025-10-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://huyunfei-blog.github.io/website/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</loc>
+    <loc>https://huyunfei.cn/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</loc>
     <lastmod>2025-10-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://huyunfei-blog.github.io/website/categories/%E5%8D%A1%E7%89%87%E6%8A%BD%E8%AE%A4%E7%AE%B10/</loc>
+    <loc>https://huyunfei.cn/categories/%E5%8D%A1%E7%89%87%E6%8A%BD%E8%AE%A4%E7%AE%B10/</loc>
     <lastmod>2025-10-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

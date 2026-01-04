@@ -168,4 +168,9 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#f92672"&gt;lang&lt;/span&gt;: &lt;span style="color:#ae81ff"&gt;zh-CN&lt;/span&gt; &lt;span style="color:#75715e"&gt;# Giscus language. e.g. en, zh-CN, zh-TW&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#f92672"&gt;input_position&lt;/span&gt;: &lt;span style="color:#ae81ff"&gt;top&lt;/span&gt; &lt;span style="color:#75715e"&gt;# Place the comment box above/below the comments. e.g. top, bottom&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#f92672"&gt;loading&lt;/span&gt;: &lt;span style="color:#ae81ff"&gt;lazy&lt;/span&gt; &lt;span style="color:#75715e"&gt;# Load the comments lazily&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;这些选项可以直接在giscus的官网生成配置：https://giscus.app/zh-CN&lt;/p&gt;</description></item></channel></rss>
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;这些选项可以直接在giscus的官网生成配置：https://giscus.app/zh-CN&lt;/p&gt;</description></item><item><title>关于</title><link>https://huyunfei.cn/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://huyunfei.cn/about/</guid><description>&lt;h2 id="关于本站"&gt;关于本站&lt;/h2&gt;
+&lt;p&gt;这是一个个人博客，专注于技术分享与思考。&lt;/p&gt;
+&lt;h2 id="关于作者"&gt;关于作者&lt;/h2&gt;
+&lt;p&gt;后端开发工程师，关注区块链技术与数据要素流通。&lt;/p&gt;
+&lt;h2 id="联系"&gt;联系&lt;/h2&gt;
+&lt;p&gt;通过 GitHub Discussions 留言。&lt;/p&gt;</description></item></channel></rss>

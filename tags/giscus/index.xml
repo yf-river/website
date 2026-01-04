@@ -17,7 +17,7 @@
 &lt;p&gt;搭建博客可以参考上述这个链接，写的蛮详细的。&lt;/p&gt;
 &lt;h1 id="评论系统"&gt;评论系统&lt;/h1&gt;
 &lt;p&gt;我这个主题的评论系统支持四种：&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://huyunfei.cn/images/Hexo-Pages-Redefine-Giscus%E5%BB%BA%E7%AB%8B%E4%B8%AA%E4%BA%BA%E7%AB%99%E7%82%B9/image-20240830132235627.png" alt="image-20240830132235627"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="image-20240830132235627.png" alt="image-20240830132235627"&gt;&lt;/p&gt;
 &lt;p&gt;我分别试了waline、gitalk、giscus三种，只有giscus可用。&lt;/p&gt;
 &lt;p&gt;waline在国内被墙，需要一个自定义域名，国内的域名需要备案，国外的申请也比较麻烦，过程很繁琐。&lt;/p&gt;
 &lt;p&gt;gitalk在国内没有被墙，但是它需要调一个github的auth api，这个api被墙了，所以也不能用。&lt;/p&gt;

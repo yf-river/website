@@ -131,15 +131,7 @@
 &lt;li&gt;睡眠、运动、饮食要保证好，这是注意力的上限。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;blockquote&gt;
-&lt;p&gt;番茄钟学习法，我知道它已经很多年了，曾经也试过，但总是提不起兴趣，没感觉它对我的注意力提供了帮助。直到这次，我又拾起来了，才算真正理解了番茄钟的妙用：&lt;/p&gt;</description></item><item><title>卡片抽认箱</title><link>https://huyunfei.cn/2024/09/04/%E5%8D%A1%E7%89%87%E6%8A%BD%E8%AE%A4%E7%AE%B1/</link><pubDate>Wed, 04 Sep 2024 13:46:09 +0800</pubDate><guid>https://huyunfei.cn/2024/09/04/%E5%8D%A1%E7%89%87%E6%8A%BD%E8%AE%A4%E7%AE%B1/</guid><description>&lt;h1 id="一天"&gt;一天&lt;/h1&gt;
-&lt;p&gt;2024.9.4&lt;/p&gt;
-&lt;h1 id="三天"&gt;三天&lt;/h1&gt;
-&lt;h1 id="一周"&gt;一周&lt;/h1&gt;
-&lt;h1 id="三周"&gt;三周&lt;/h1&gt;
-&lt;h1 id="一个月"&gt;一个月&lt;/h1&gt;
-&lt;h1 id="三个月"&gt;三个月&lt;/h1&gt;
-&lt;h1 id="六个月"&gt;六个月&lt;/h1&gt;
-&lt;h1 id="一年"&gt;一年&lt;/h1&gt;</description></item><item><title>Hexo+GitHub Pages+Redefine+Giscus建立个人站点</title><link>https://huyunfei.cn/2024/08/30/hexo-github-pages-redefine-giscus%E5%BB%BA%E7%AB%8B%E4%B8%AA%E4%BA%BA%E7%AB%99%E7%82%B9/</link><pubDate>Fri, 30 Aug 2024 10:56:32 +0800</pubDate><guid>https://huyunfei.cn/2024/08/30/hexo-github-pages-redefine-giscus%E5%BB%BA%E7%AB%8B%E4%B8%AA%E4%BA%BA%E7%AB%99%E7%82%B9/</guid><description>&lt;h1 id="前情提要"&gt;前情提要&lt;/h1&gt;
+&lt;p&gt;番茄钟学习法，我知道它已经很多年了，曾经也试过，但总是提不起兴趣，没感觉它对我的注意力提供了帮助。直到这次，我又拾起来了，才算真正理解了番茄钟的妙用：&lt;/p&gt;</description></item><item><title>Hexo+GitHub Pages+Redefine+Giscus建立个人站点</title><link>https://huyunfei.cn/2024/08/30/hexo-github-pages-redefine-giscus%E5%BB%BA%E7%AB%8B%E4%B8%AA%E4%BA%BA%E7%AB%99%E7%82%B9/</link><pubDate>Fri, 30 Aug 2024 10:56:32 +0800</pubDate><guid>https://huyunfei.cn/2024/08/30/hexo-github-pages-redefine-giscus%E5%BB%BA%E7%AB%8B%E4%B8%AA%E4%BA%BA%E7%AB%99%E7%82%B9/</guid><description>&lt;h1 id="前情提要"&gt;前情提要&lt;/h1&gt;
 &lt;p&gt;搭建整个博客不需要任何额外的东西，比如域名，比如服务器之类的。但是需要你能访问到github。&lt;/p&gt;
 &lt;p&gt;熟练起来，搭建大约两个小时，初次搭建大约需要一天。&lt;/p&gt;
 &lt;p&gt;Hexo：一个博客框架，可以认为是一个帮助你快速建立博客的工具集。可以通过命令行的形式创建页面，启动服务，上传到github之类的。当然，除了Hexo，也有其它的博客框架。&lt;/p&gt;

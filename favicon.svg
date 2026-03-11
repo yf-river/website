@@ -1,0 +1,10 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">怀川图标</title>
+  <desc id="desc">A minimal mountain and river icon for Huai Chuan.</desc>
+  <rect x="8" y="8" width="112" height="112" rx="24" fill="#173845"/>
+  <path d="M24 44C33 36 42 31 51 34C56 36 60 40 64 40C69 40 73 35 79 30C85 26 92 25 104 33" stroke="#F5E8D0" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M36 54C36 67 33 77 28 87C24 95 23 101 26 105" stroke="#F5E8D0" stroke-width="8" stroke-linecap="round"/>
+  <path d="M64 50C64 64 64 74 64 85C64 95 62 101 58 106" stroke="#F5E8D0" stroke-width="9" stroke-linecap="round"/>
+  <path d="M92 56C92 68 95 78 100 87C104 95 105 101 101 105" stroke="#F5E8D0" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="92" cy="40" r="6" fill="#E2B35B"/>
+</svg>

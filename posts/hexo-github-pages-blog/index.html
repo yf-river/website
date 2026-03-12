@@ -1,41 +1,7 @@
-<!doctype html><html class="not-ready lg:text-base" style=--bg:#faf8f1 lang=zh-cn dir=ltr><head><meta charset=utf-8><meta http-equiv=X-UA-Compatible content="IE=edge"><meta name=viewport content="width=device-width,initial-scale=1,shrink-to-fit=no"><title>Hexo+GitHub Pages+Redefine+Giscus建立个人站点 - 怀川</title><meta name=theme-color><meta name=description content="前情提要
-搭建整个博客不需要任何额外的东西，比如域名，比如服务器之类的。但是需要你能访问到github。
+<!doctype html><html class="not-ready lg:text-base" style=--bg:#faf8f1 lang=zh-cn dir=ltr><head><meta charset=utf-8><meta http-equiv=X-UA-Compatible content="IE=edge"><meta name=viewport content="width=device-width,initial-scale=1,shrink-to-fit=no"><title>Hexo+GitHub Pages+Redefine+Giscus建立个人站点 - 怀川</title><meta name=theme-color><meta name=description content="前情提要 搭建整个博客不需要任何额外的东西，比如域名，比如服务器之类的。但是需要你能访问到github。
 熟练起来，搭建大约两个小时，初次搭建大约需要一天。
 Hexo：一个博客框架，可以认为是一个帮助你快速建立博客的工具集。可以通过命令行的形式创建页面，启动服务，上传到github之类的。当然，除了Hexo，也有其它的博客框架。
-Redefine：Hexo博客框架下的一个主题，Hexo可以管理多个主题。
-GitHub Pages：github的静态网页部署方式，可以让你的html在网页上直接打开。
-Giscus：博客需要评论，评论就需要评论系统，Giscus就是一个评论系统。 除此之外也有其它的评论系统，它们大概都是根据存储评论地方的不同而区分，比如有的是存在github的issue，有的是存在第三方存储平台，按需索取。
-大概的流程是：
-
-你需要在Hexo的主题列表中选一个自己心仪的主题，然后在本地部署起来。（可以直接在本地访问网页）
-然后在github创建一个仓库，打开pages
-通过hexo将本地的博客系统部署到github仓库
-配置Giscus评论系统
-
-搭建博客 & 部署pages
-【基础篇】hexo博客搭建教程 - huanhao - 博客园 (cnblogs.com)
-搭建博客可以参考上述这个链接，写的蛮详细的。
-评论系统
-我这个主题的评论系统支持四种：
-
-我分别试了waline、gitalk、giscus三种，只有giscus可用。
-waline在国内被墙，需要一个自定义域名，国内的域名需要备案，国外的申请也比较麻烦，过程很繁琐。
-gitalk在国内没有被墙，但是它需要调一个github的auth api，这个api被墙了，所以也不能用。
-只有giscus可以用。
-如果你的主题支持giscus的话，打开配置文件，大概会有这些选项需要配置
-    giscus:
-      repo: huyunfei-blog/blog-comment # Github repository name e.g. EvanNotFound/hexo-theme-redefine
-      repo_id:  # Github repository id
-      category:  # Github discussion category
-      category_id:  # Github discussion category id
-      mapping:  # Which value to use as the unique identifier for the page. e.g. pathname, url, title, og:title. DO NOT USE og:title WITH PJAX ENABLED since pjax will not update og:title when the page changes
-      strict: 0 # Whether to enable strict mode. e.g. 0, 1
-      reactions_enabled: 1 # Whether to enable reactions. e.g. 0, 1
-      emit_metadata: 0 # Whether to emit metadata. e.g. 0, 1
-      lang: zh-CN # Giscus language. e.g. en, zh-CN, zh-TW
-      input_position: top # Place the comment box above/below the comments. e.g. top, bottom
-      loading: lazy # Load the comments lazily
-这些选项可以直接在giscus的官网生成配置：https://giscus.app/zh-CN"><meta name=author content="怀川"><link rel="preload stylesheet" as=style href=https://huyunfei.cn/main.min.css><script defer src=https://huyunfei.cn/custom.min.js></script><link rel=preload as=image href=https://huyunfei.cn/theme.png><script defer src=https://huyunfei.cn/highlight.min.js onload=hljs.initHighlightingOnLoad()></script><link rel=icon type=image/svg+xml href=https://huyunfei.cn/favicon.svg><link rel="alternate icon" type=image/x-icon href=https://huyunfei.cn/favicon.ico><link rel="shortcut icon" type=image/x-icon href=https://huyunfei.cn/favicon.ico><link rel=apple-touch-icon href=https://huyunfei.cn/apple-touch-icon.png><meta name=generator content="Hugo 0.157.0"><meta itemprop=name content="Hexo+GitHub Pages+Redefine+Giscus建立个人站点"><meta itemprop=description content="前情提要 搭建整个博客不需要任何额外的东西，比如域名，比如服务器之类的。但是需要你能访问到github。
+Redefine：Hexo博 …"><meta name=author content="怀川"><link rel="preload stylesheet" as=style href=https://huyunfei.cn/main.min.css><script defer src=https://huyunfei.cn/custom.min.js></script><link rel=preload as=image href=https://huyunfei.cn/theme.png><script defer src=https://huyunfei.cn/highlight.min.js onload=hljs.initHighlightingOnLoad()></script><link rel=icon type=image/svg+xml href=https://huyunfei.cn/favicon.svg><link rel="alternate icon" type=image/x-icon href=https://huyunfei.cn/favicon.ico><link rel="shortcut icon" type=image/x-icon href=https://huyunfei.cn/favicon.ico><link rel=apple-touch-icon href=https://huyunfei.cn/apple-touch-icon.png><meta name=generator content="Hugo 0.157.0"><meta itemprop=name content="Hexo+GitHub Pages+Redefine+Giscus建立个人站点"><meta itemprop=description content="前情提要 搭建整个博客不需要任何额外的东西，比如域名，比如服务器之类的。但是需要你能访问到github。
 熟练起来，搭建大约两个小时，初次搭建大约需要一天。
 Hexo：一个博客框架，可以认为是一个帮助你快速建立博客的工具集。可以通过命令行的形式创建页面，启动服务，上传到github之类的。当然，除了Hexo，也有其它的博客框架。
 Redefine：Hexo博客框架下的一个主题，Hexo可以管理多个主题。

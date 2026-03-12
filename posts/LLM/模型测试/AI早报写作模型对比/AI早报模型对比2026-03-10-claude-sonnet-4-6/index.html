@@ -1,18 +1,5 @@
-<!doctype html><html class="not-ready lg:text-base" style=--bg:#faf8f1 lang=zh-cn dir=ltr><head><meta charset=utf-8><meta http-equiv=X-UA-Compatible content="IE=edge"><meta name=viewport content="width=device-width,initial-scale=1,shrink-to-fit=no"><title>AI早报模型对比（3.10 / Claude Sonnet 4.6）：同源补测：Sonnet 4.6 版本 - 怀川</title><meta name=theme-color><meta name=description content='
-实验说明：本文是同一份 AI 早报源数据下的单模型对比版本。
-生成模型：Claude Sonnet 4.6（CodeBuddy SDK）
-调用方式：CodeBuddy SDK
-统一源数据：2026-03-10
-
-今天结论：AI 工具生态的竞争正从"功能比拼"转向"信任、成本与平台控制权"的深层博弈，开发者和企业需要在这一转折点重新评估工具选型。
-
-今日信号
-信号一：Anthropic 起诉美国国防部，AI 地缘政治进入新阶段
-五角大楼以"供应链风险"为由限制 Anthropic 参与国防 AI 项目，Anthropic 提起诉讼。OpenAI 和 Google 员工罕见联名支持，揭示 AI 行业面对政府监管时的"统一战线"。与此同时，OpenAI 披露了与"Department of War"（美国国防部历史名称）的合作协议及与洛斯阿拉莫斯国家实验室的合作，两家头部公司在国家安全议题上走出截然相反的姿态。
-信号二：OpenClaw 单日暴涨 9164 星，&ldquo;用户主权 AI"需求爆发
-这个强调"Any OS, Any Platform&rdquo;、用户完全掌控的本地 AI 助手，一天内成为 GitHub 增速第一。背后原因直接：Anthropic 已开始封禁将 Claude 用于 OpenClaw 等第三方工具的账户，供应商锁定焦虑推动开发者寻找出口。多运行时支持（兼容 Claude/Codex/Gemini/本地模型）从"额外选项"变成了"生存刚需"。
-信号三：Anthropic 用 Claude Opus 4.6 两周发现 22 个 Firefox 漏洞
-其中 14 个高危，占 2025 年 Firefox 高危漏洞修复总量约五分之一，已推送至 Firefox 148.0 覆盖数亿用户。这是首个"AI 独立发现大规模真实漏洞"的公开案例。同一天，OpenAI 发布 Codex Security 研究预览版，直接跟进竞争。AI 安全研究正从辅助工具变成独立能力。'><meta name=author content="怀川"><link rel="preload stylesheet" as=style href=https://huyunfei.cn/main.min.css><script defer src=https://huyunfei.cn/custom.min.js></script><link rel=preload as=image href=https://huyunfei.cn/theme.png><script defer src=https://huyunfei.cn/highlight.min.js onload=hljs.initHighlightingOnLoad()></script><link rel=icon type=image/svg+xml href=https://huyunfei.cn/favicon.svg><link rel="alternate icon" type=image/x-icon href=https://huyunfei.cn/favicon.ico><link rel="shortcut icon" type=image/x-icon href=https://huyunfei.cn/favicon.ico><link rel=apple-touch-icon href=https://huyunfei.cn/apple-touch-icon.png><meta name=generator content="Hugo 0.157.0"><meta itemprop=name content="AI早报模型对比（3.10 / Claude Sonnet 4.6）：同源补测：Sonnet 4.6 版本"><meta itemprop=description content='实验说明：本文是同一份 AI 早报源数据下的单模型对比版本。 生成模型：Claude Sonnet 4.6（CodeBuddy SDK） 调用方式：CodeBuddy SDK 统一源数据：2026-03-10
+<!doctype html><html class="not-ready lg:text-base" style=--bg:#faf8f1 lang=zh-cn dir=ltr><head><meta charset=utf-8><meta http-equiv=X-UA-Compatible content="IE=edge"><meta name=viewport content="width=device-width,initial-scale=1,shrink-to-fit=no"><title>AI早报模型对比（3.10 / Claude Sonnet 4.6）：同源补测：Sonnet 4.6 版本 - 怀川</title><meta name=theme-color><meta name=description content=' 实验说明：本文是同一份 AI 早报源数据下的单模型对比版本。 生成模型：Claude Sonnet 4.6（CodeBuddy SDK） 调用方式：CodeBuddy SDK 统一源数据：2026-03-10
+今天结论：AI 工具生态的竞争正从"功能比拼"转向"信任、成本与平台控制权"的深层博弈，开发者和企业需要在这 …'><meta name=author content="怀川"><link rel="preload stylesheet" as=style href=https://huyunfei.cn/main.min.css><script defer src=https://huyunfei.cn/custom.min.js></script><link rel=preload as=image href=https://huyunfei.cn/theme.png><script defer src=https://huyunfei.cn/highlight.min.js onload=hljs.initHighlightingOnLoad()></script><link rel=icon type=image/svg+xml href=https://huyunfei.cn/favicon.svg><link rel="alternate icon" type=image/x-icon href=https://huyunfei.cn/favicon.ico><link rel="shortcut icon" type=image/x-icon href=https://huyunfei.cn/favicon.ico><link rel=apple-touch-icon href=https://huyunfei.cn/apple-touch-icon.png><meta name=generator content="Hugo 0.157.0"><meta itemprop=name content="AI早报模型对比（3.10 / Claude Sonnet 4.6）：同源补测：Sonnet 4.6 版本"><meta itemprop=description content='实验说明：本文是同一份 AI 早报源数据下的单模型对比版本。 生成模型：Claude Sonnet 4.6（CodeBuddy SDK） 调用方式：CodeBuddy SDK 统一源数据：2026-03-10
 今天结论：AI 工具生态的竞争正从"功能比拼"转向"信任、成本与平台控制权"的深层博弈，开发者和企业需要在这一转折点重新评估工具选型。
 今日信号 信号一：Anthropic 起诉美国国防部，AI 地缘政治进入新阶段
 五角大楼以"供应链风险"为由限制 Anthropic 参与国防 AI 项目，Anthropic 提起诉讼。OpenAI 和 Google 员工罕见联名支持，揭示 AI 行业面对政府监管时的"统一战线"。与此同时，OpenAI 披露了与"Department of War"（美国国防部历史名称）的合作协议及与洛斯阿拉莫斯国家实验室的合作，两家头部公司在国家安全议题上走出截然相反的姿态。

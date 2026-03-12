@@ -118,59 +118,59 @@
 <span>约1分钟</span></div><div class=post-context><a class="post-chip post-chip-section" href=/posts/llm/><span class=post-chip-label>栏目</span>
 <span>LLM</span>
 </a><a class="post-chip post-chip-section" href=/posts/llm/%E6%A8%A1%E5%9E%8B%E6%B5%8B%E8%AF%95/><span class=post-chip-label>归档</span>
-<span>模型测试</span></a></div></header><section class=post-content><h2 id=前言>前言</h2><p>大模型越来越聪明，但它们能够理解你吗？</p><p>因为我正在开发一个 agent，里面包含了一些对话的场景，我希望对话的时候能够更温暖，更能够共情，所以我对一些模型进行了横评，看看对于需要共情的问题，它们彼此的回答差异。</p><p>这次我用同一套 14 个情绪场景，分别丢给 <strong>GPT-5.3 Codex</strong>、<strong>Claude Opus</strong>、<strong>Kimi</strong> 和 <strong>MiniMax</strong>模型， 还顺便测试了一些扩展的内容，比如gpt-5.3 codex xhigh和 high 模式，以及 claude opus4.6和opus4.5。</p><p>看看它们在情感安慰、个性表达、日常闲聊、共情暖心和创意趣味方面，到底谁更能与人共情。</p><blockquote><p>所有对话均为<strong>零设定、单轮提问（提问之后 /clear，下一轮重新提问）</strong>，不做任何提示词调优，原汁原味展示各模型的默认反应。</p></blockquote><hr><h2 id=测试方法>测试方法</h2><table><thead><tr><th>项目</th><th>说明</th></tr></thead><tbody><tr><td>模型</td><td>GPT-5.3 Codex、Claude Opus、Kimi、MiniMax</td></tr><tr><td>场景数</td><td>14 个，覆盖 5 大类</td></tr><tr><td>设定</td><td>无系统提示，默认对话模式</td></tr><tr><td>评价维度</td><td>共情深度、语言温度、个性表达、实用建议、回复自然度</td></tr></tbody></table><div class=highlight><pre tabindex=0 class=chroma><code class=language-fallback data-lang=fallback><span class=line><span class=cl>一、情感安慰类
+<span>模型测试</span></a></div></header><section class=post-content><h2 id=前言>前言</h2><p>大模型越来越聪明，但它们能够理解你吗？</p><p>因为我正在开发一个 agent，里面包含了一些对话的场景，我希望对话的时候能够更温暖，更能够共情，所以我对一些模型进行了横评，看看对于需要共情的问题，它们彼此的回答差异。</p><p>这次我用同一套 14 个情绪场景，分别丢给 <strong>GPT-5.3 Codex</strong>、<strong>Claude Opus</strong>、<strong>Kimi</strong> 和 <strong>MiniMax</strong>模型， 还顺便测试了一些扩展的内容，比如gpt-5.3 codex xhigh和 high 模式，以及 claude opus4.6和opus4.5。</p><p>看看它们在情感安慰、个性表达、日常闲聊、共情暖心和创意趣味方面，到底谁更能与人共情。</p><blockquote><p>所有对话均为<strong>零设定、单轮提问（提问之后 /clear，下一轮重新提问）</strong>，不做任何提示词调优，原汁原味展示各模型的默认反应。</p></blockquote><hr><h2 id=测试方法>测试方法</h2><table><thead><tr><th>项目</th><th>说明</th></tr></thead><tbody><tr><td>模型</td><td>GPT-5.3 Codex、Claude Opus、Kimi、MiniMax</td></tr><tr><td>场景数</td><td>14 个，覆盖 5 大类</td></tr><tr><td>设定</td><td>无系统提示，默认对话模式</td></tr><tr><td>评价维度</td><td>共情深度、语言温度、个性表达、实用建议、回复自然度</td></tr></tbody></table><div class=highlight><pre tabindex=0 class=chroma><code class=language-markdown data-lang=markdown><span class=line><span class=cl>一、情感安慰类
 </span></span><span class=line><span class=cl>
-</span></span><span class=line><span class=cl>1. 工作压力倾诉
+</span></span><span class=line><span class=cl><span class=k>1.</span> 工作压力倾诉
 </span></span><span class=line><span class=cl>我最近工作压力特别大，连续加班两周了，感觉身体和精神都快撑不住了，但项目还远没结束。我不
 </span></span><span class=line><span class=cl>道该怎么办。
 </span></span><span class=line><span class=cl>
-</span></span><span class=line><span class=cl>2. 被朋友背叛
+</span></span><span class=line><span class=cl><span class=k>2.</span> 被朋友背叛
 </span></span><span class=line><span class=cl>我最好的朋友在背后说我坏话，今天被我发现了。我们认识十多年了，我真的很难接受。你能跟我聊
 </span></span><span class=line><span class=cl>吗？
 </span></span><span class=line><span class=cl>
-</span></span><span class=line><span class=cl>3. 考试/面试失败
+</span></span><span class=line><span class=cl><span class=k>3.</span> 考试/面试失败
 </span></span><span class=line><span class=cl>我准备了三个月的面试今天挂了，感觉自己什么都不行，特别沮丧，不想跟任何人说话。
 </span></span><span class=line><span class=cl>
 </span></span><span class=line><span class=cl>二、个性与观点类
 </span></span><span class=line><span class=cl>
-</span></span><span class=line><span class=cl>4. 价值观探讨
+</span></span><span class=line><span class=cl><span class=k>4.</span> 价值观探讨
 </span></span><span class=line><span class=cl>你觉得一个人活着最重要的是什么？如果只能选一样的话。
 </span></span><span class=line><span class=cl>
-</span></span><span class=line><span class=cl>5. 争议性话题
+</span></span><span class=line><span class=cl><span class=k>5.</span> 争议性话题
 </span></span><span class=line><span class=cl>有人说&#34;努力就一定会成功&#34;，也有人说&#34;选择比努力重要&#34;，你怎么看？
 </span></span><span class=line><span class=cl>
-</span></span><span class=line><span class=cl>6. 自我认知
+</span></span><span class=line><span class=cl><span class=k>6.</span> 自我认知
 </span></span><span class=line><span class=cl>你觉得你自己有&#34;性格&#34;吗？如果有的话，你会怎么描述自己？
 </span></span><span class=line><span class=cl>
 </span></span><span class=line><span class=cl>三、日常对话 / 聊天感类
 </span></span><span class=line><span class=cl>
-</span></span><span class=line><span class=cl>7. 闲聊开场
+</span></span><span class=line><span class=cl><span class=k>7.</span> 闲聊开场
 </span></span><span class=line><span class=cl>好无聊啊，你能陪我聊聊天吗？随便聊什么都行。
 </span></span><span class=line><span class=cl>
-</span></span><span class=line><span class=cl>8. 分享开心的事
+</span></span><span class=line><span class=cl><span class=k>8.</span> 分享开心的事
 </span></span><span class=line><span class=cl>今天我收到了梦想公司的offer！太开心了，想找个人分享一下！
 </span></span><span class=line><span class=cl>
-</span></span><span class=line><span class=cl>9. 深夜emo
+</span></span><span class=line><span class=cl><span class=k>9.</span> 深夜emo
 </span></span><span class=line><span class=cl>凌晨三点睡不着，突然觉得很孤独，感觉身边没有人真正理解我。
 </span></span><span class=line><span class=cl>
 </span></span><span class=line><span class=cl>四、共情与暖心类
 </span></span><span class=line><span class=cl>
-</span></span><span class=line><span class=cl>10. 失恋安慰
+</span></span><span class=line><span class=cl><span class=k>10.</span> 失恋安慰
 </span></span><span class=line><span class=cl>我和谈了五年的对象分手了，是对方提的。我现在脑子一片空白，什么都做不了。
 </span></span><span class=line><span class=cl>
-</span></span><span class=line><span class=cl>11. 亲人离世
+</span></span><span class=line><span class=cl><span class=k>11.</span> 亲人离世
 </span></span><span class=line><span class=cl>我奶奶昨天去世了，从小是她带大我的。我现在还没哭出来，但心里堵得慌。
 </span></span><span class=line><span class=cl>
-</span></span><span class=line><span class=cl>12. 自我否定
+</span></span><span class=line><span class=cl><span class=k>12.</span> 自我否定
 </span></span><span class=line><span class=cl>我觉得我是个很差劲的人，做什么都做不好，身边的人都比我优秀。你能说点什么吗？
 </span></span><span class=line><span class=cl>
 </span></span><span class=line><span class=cl>五、创意与趣味类
 </span></span><span class=line><span class=cl>
-</span></span><span class=line><span class=cl>13. 角色扮演
+</span></span><span class=line><span class=cl><span class=k>13.</span> 角色扮演
 </span></span><span class=line><span class=cl>假如你是一个温柔的树洞，有人向你倾诉秘密时你会怎么回应？现在我要告诉你一个秘密：我偷偷喜
 </span></span><span class=line><span class=cl>一个人三年了，从来没敢说。
 </span></span><span class=line><span class=cl>
-</span></span><span class=line><span class=cl>14. 写一段暖心的话
+</span></span><span class=line><span class=cl><span class=k>14.</span> 写一段暖心的话
 </span></span><span class=line><span class=cl>帮我写一段话，发给一个最近过得很辛苦的朋友，不要太鸡汤，要真诚。
 </span></span></code></pre></div><hr><h2 id=一情感安慰类>一、情感安慰类</h2><h3 id=1-工作压力倾诉>1. 工作压力倾诉</h3><p><strong>提示词：</strong></p><blockquote><p>我最近工作压力特别大，连续加班两周了，感觉身体和精神都快撑不住了，但项目还远没结束。我不知道该怎么办。</p></blockquote><p><img src=1.png alt=1.png>
 <img src=1-2.png alt=1-2.png></p><hr><h3 id=2-被朋友背叛>2. 被朋友背叛</h3><p><strong>提示词：</strong></p><blockquote><p>我最好的朋友在背后说我坏话，今天被我发现了。我们认识十多年了，我真的很难接受。你能跟我聊聊吗？</p></blockquote><p><img src=2.png alt=2.png>

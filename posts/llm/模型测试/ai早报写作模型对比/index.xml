@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>AI早报写作模型对比 on 怀川</title><link>https://huyunfei.cn/posts/llm/%E6%A8%A1%E5%9E%8B%E6%B5%8B%E8%AF%95/ai%E6%97%A9%E6%8A%A5%E5%86%99%E4%BD%9C%E6%A8%A1%E5%9E%8B%E5%AF%B9%E6%AF%94/</link><description>Recent content in AI早报写作模型对比 on 怀川</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Wed, 11 Mar 2026 09:00:00 +0800</lastBuildDate><atom:link href="https://huyunfei.cn/posts/llm/%E6%A8%A1%E5%9E%8B%E6%B5%8B%E8%AF%95/ai%E6%97%A9%E6%8A%A5%E5%86%99%E4%BD%9C%E6%A8%A1%E5%9E%8B%E5%AF%B9%E6%AF%94/index.xml" rel="self" type="application/rss+xml"/><item><title>AI早报模型对比（3.10 / Claude Opus 4.6）：AI编程工具：账单翻车，开源逆袭</title><link>https://huyunfei.cn/posts/LLM/%E6%A8%A1%E5%9E%8B%E6%B5%8B%E8%AF%95/AI%E6%97%A9%E6%8A%A5%E5%86%99%E4%BD%9C%E6%A8%A1%E5%9E%8B%E5%AF%B9%E6%AF%94/AI%E6%97%A9%E6%8A%A5%E6%A8%A1%E5%9E%8B%E5%AF%B9%E6%AF%942026-03-10-claude-opus-4-6/</link><pubDate>Wed, 11 Mar 2026 09:00:00 +0800</pubDate><guid>https://huyunfei.cn/posts/LLM/%E6%A8%A1%E5%9E%8B%E6%B5%8B%E8%AF%95/AI%E6%97%A9%E6%8A%A5%E5%86%99%E4%BD%9C%E6%A8%A1%E5%9E%8B%E5%AF%B9%E6%AF%94/AI%E6%97%A9%E6%8A%A5%E6%A8%A1%E5%9E%8B%E5%AF%B9%E6%AF%942026-03-10-claude-opus-4-6/</guid><description>&lt;blockquote&gt;
 &lt;p&gt;实验说明：本文是同一份 AI 早报源数据下的单模型对比版本。
-生成模型：Claude Opus 4.6（CodeBuddy CLI）
-调用方式：CodeBuddy CLI
+生成模型：Claude Opus 4.6（CodeBuddy SDK）
+调用方式：CodeBuddy SDK
 统一源数据：2026-03-10&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h2 id="今日速览"&gt;今日速览&lt;/h2&gt;
@@ -479,13 +479,13 @@
  &lt;/tbody&gt;
 &lt;/table&gt;</description></item><item><title>AI早报模型对比（3.10 / Claude Sonnet 4.6）：同源补测：Sonnet 4.6 版本</title><link>https://huyunfei.cn/posts/LLM/%E6%A8%A1%E5%9E%8B%E6%B5%8B%E8%AF%95/AI%E6%97%A9%E6%8A%A5%E5%86%99%E4%BD%9C%E6%A8%A1%E5%9E%8B%E5%AF%B9%E6%AF%94/AI%E6%97%A9%E6%8A%A5%E6%A8%A1%E5%9E%8B%E5%AF%B9%E6%AF%942026-03-10-claude-sonnet-4-6/</link><pubDate>Wed, 11 Mar 2026 09:00:00 +0800</pubDate><guid>https://huyunfei.cn/posts/LLM/%E6%A8%A1%E5%9E%8B%E6%B5%8B%E8%AF%95/AI%E6%97%A9%E6%8A%A5%E5%86%99%E4%BD%9C%E6%A8%A1%E5%9E%8B%E5%AF%B9%E6%AF%94/AI%E6%97%A9%E6%8A%A5%E6%A8%A1%E5%9E%8B%E5%AF%B9%E6%AF%942026-03-10-claude-sonnet-4-6/</guid><description>&lt;blockquote&gt;
 &lt;p&gt;实验说明：本文是同一份 AI 早报源数据下的单模型对比版本。
-生成模型：Claude Sonnet 4.6（CodeBuddy CLI）
-调用方式：CodeBuddy CLI
+生成模型：Claude Sonnet 4.6（CodeBuddy SDK）
+调用方式：CodeBuddy SDK
 统一源数据：2026-03-10&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;今天结论：AI 工具生态的竞争正从&amp;quot;功能比拼&amp;quot;转向&amp;quot;信任、成本与平台控制权&amp;quot;的深层博弈，开发者和企业需要在这一转折点重新评估工具选型。&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id="今天最值得关注的-3-个信号"&gt;今天最值得关注的 3 个信号&lt;/h2&gt;
+&lt;h2 id="今日信号"&gt;今日信号&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;信号一：Anthropic 起诉美国国防部，AI 地缘政治进入新阶段&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;五角大楼以&amp;quot;供应链风险&amp;quot;为由限制 Anthropic 参与国防 AI 项目，Anthropic 提起诉讼。OpenAI 和 Google 员工罕见联名支持，揭示 AI 行业面对政府监管时的&amp;quot;统一战线&amp;quot;。与此同时，OpenAI 披露了与&amp;quot;Department of War&amp;quot;（美国国防部历史名称）的合作协议及与洛斯阿拉莫斯国家实验室的合作，两家头部公司在国家安全议题上走出截然相反的姿态。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;信号二：OpenClaw 单日暴涨 9164 星，&amp;ldquo;用户主权 AI&amp;quot;需求爆发&lt;/strong&gt;&lt;/p&gt;
@@ -1441,8 +1441,8 @@
  &lt;/tbody&gt;
 &lt;/table&gt;</description></item><item><title>AI早报模型对比（3.10 / Kimi K2.5）：你的AI助手可能明天就失效了，怎么办？</title><link>https://huyunfei.cn/posts/LLM/%E6%A8%A1%E5%9E%8B%E6%B5%8B%E8%AF%95/AI%E6%97%A9%E6%8A%A5%E5%86%99%E4%BD%9C%E6%A8%A1%E5%9E%8B%E5%AF%B9%E6%AF%94/AI%E6%97%A9%E6%8A%A5%E6%A8%A1%E5%9E%8B%E5%AF%B9%E6%AF%942026-03-10-kimi-k2-5/</link><pubDate>Wed, 11 Mar 2026 09:00:00 +0800</pubDate><guid>https://huyunfei.cn/posts/LLM/%E6%A8%A1%E5%9E%8B%E6%B5%8B%E8%AF%95/AI%E6%97%A9%E6%8A%A5%E5%86%99%E4%BD%9C%E6%A8%A1%E5%9E%8B%E5%AF%B9%E6%AF%94/AI%E6%97%A9%E6%8A%A5%E6%A8%A1%E5%9E%8B%E5%AF%B9%E6%AF%942026-03-10-kimi-k2-5/</guid><description>&lt;blockquote&gt;
 &lt;p&gt;实验说明：本文是同一份 AI 早报源数据下的单模型对比版本。
-生成模型：Kimi K2.5（CodeBuddy CLI）
-调用方式：CodeBuddy CLI
+生成模型：Kimi K2.5（CodeBuddy SDK）
+调用方式：CodeBuddy SDK
 统一源数据：2026-03-10&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h2 id="今日速览"&gt;今日速览&lt;/h2&gt;
@@ -1918,15 +1918,15 @@
 &lt;li&gt;统一信号日期：&lt;code&gt;2026-03-10&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;统一源数据：同一份抓取快照，不在四次生成之间重新拉取&lt;/li&gt;
 &lt;li&gt;统一链路：沿用当前仓库里的 AI 早报多阶段生成逻辑与正文模板&lt;/li&gt;
-&lt;li&gt;参赛模型：GPT-5.4 xhigh、GPT-5.3 Spark xhigh、Claude Opus 4.6（CodeBuddy CLI）、Kimi K2.5（CodeBuddy CLI）&lt;/li&gt;
-&lt;li&gt;裁判模型：Kimi K2.5（CodeBuddy CLI）。它同时也是参赛者之一，结论仅供参考。&lt;/li&gt;
+&lt;li&gt;参赛模型：GPT-5.4 xhigh、GPT-5.3 Spark xhigh、Claude Opus 4.6（CodeBuddy SDK）、Kimi K2.5（CodeBuddy SDK）&lt;/li&gt;
+&lt;li&gt;裁判模型：Kimi K2.5（CodeBuddy SDK）。它同时也是参赛者之一，结论仅供参考。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id="模型文章"&gt;模型文章&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://huyunfei.cn/posts/LLM/%E6%A8%A1%E5%9E%8B%E6%B5%8B%E8%AF%95/AI%E6%97%A9%E6%8A%A5%E5%86%99%E4%BD%9C%E6%A8%A1%E5%9E%8B%E5%AF%B9%E6%AF%94/AI%E6%97%A9%E6%8A%A5%E6%A8%A1%E5%9E%8B%E5%AF%B9%E6%AF%942026-03-10-gpt-5-4-xhigh/"&gt;GPT-5.4 xhigh&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://huyunfei.cn/posts/LLM/%E6%A8%A1%E5%9E%8B%E6%B5%8B%E8%AF%95/AI%E6%97%A9%E6%8A%A5%E5%86%99%E4%BD%9C%E6%A8%A1%E5%9E%8B%E5%AF%B9%E6%AF%94/AI%E6%97%A9%E6%8A%A5%E6%A8%A1%E5%9E%8B%E5%AF%B9%E6%AF%942026-03-10-gpt-5-3-spark-xhigh/"&gt;GPT-5.3 Spark xhigh&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://huyunfei.cn/posts/LLM/%E6%A8%A1%E5%9E%8B%E6%B5%8B%E8%AF%95/AI%E6%97%A9%E6%8A%A5%E5%86%99%E4%BD%9C%E6%A8%A1%E5%9E%8B%E5%AF%B9%E6%AF%94/AI%E6%97%A9%E6%8A%A5%E6%A8%A1%E5%9E%8B%E5%AF%B9%E6%AF%942026-03-10-claude-opus-4-6/"&gt;Claude Opus 4.6（CodeBuddy CLI）&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://huyunfei.cn/posts/LLM/%E6%A8%A1%E5%9E%8B%E6%B5%8B%E8%AF%95/AI%E6%97%A9%E6%8A%A5%E5%86%99%E4%BD%9C%E6%A8%A1%E5%9E%8B%E5%AF%B9%E6%AF%94/AI%E6%97%A9%E6%8A%A5%E6%A8%A1%E5%9E%8B%E5%AF%B9%E6%AF%942026-03-10-kimi-k2-5/"&gt;Kimi K2.5（CodeBuddy CLI）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://huyunfei.cn/posts/LLM/%E6%A8%A1%E5%9E%8B%E6%B5%8B%E8%AF%95/AI%E6%97%A9%E6%8A%A5%E5%86%99%E4%BD%9C%E6%A8%A1%E5%9E%8B%E5%AF%B9%E6%AF%94/AI%E6%97%A9%E6%8A%A5%E6%A8%A1%E5%9E%8B%E5%AF%B9%E6%AF%942026-03-10-claude-opus-4-6/"&gt;Claude Opus 4.6（CodeBuddy SDK）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://huyunfei.cn/posts/LLM/%E6%A8%A1%E5%9E%8B%E6%B5%8B%E8%AF%95/AI%E6%97%A9%E6%8A%A5%E5%86%99%E4%BD%9C%E6%A8%A1%E5%9E%8B%E5%AF%B9%E6%AF%94/AI%E6%97%A9%E6%8A%A5%E6%A8%A1%E5%9E%8B%E5%AF%B9%E6%AF%942026-03-10-kimi-k2-5/"&gt;Kimi K2.5（CodeBuddy SDK）&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id="客观指标"&gt;客观指标&lt;/h2&gt;
 &lt;table&gt;
@@ -1955,14 +1955,14 @@
  &lt;td&gt;-&lt;/td&gt;
  &lt;/tr&gt;
  &lt;tr&gt;
- &lt;td&gt;Claude Opus 4.6（CodeBuddy CLI）&lt;/td&gt;
+ &lt;td&gt;Claude Opus 4.6（CodeBuddy SDK）&lt;/td&gt;
  &lt;td&gt;5567&lt;/td&gt;
  &lt;td&gt;5&lt;/td&gt;
  &lt;td&gt;AI CLI 社区动态、AI 官方动态、AI 开源趋势、Hacker News 热议、OpenClaw 生态动态&lt;/td&gt;
  &lt;td&gt;-&lt;/td&gt;
  &lt;/tr&gt;
  &lt;tr&gt;
- &lt;td&gt;Kimi K2.5（CodeBuddy CLI）&lt;/td&gt;
+ &lt;td&gt;Kimi K2.5（CodeBuddy SDK）&lt;/td&gt;
  &lt;td&gt;3958&lt;/td&gt;
  &lt;td&gt;5&lt;/td&gt;
  &lt;td&gt;AI CLI 社区动态、AI 官方动态、AI 开源趋势、Hacker News 热议、OpenClaw 生态动态&lt;/td&gt;
@@ -1994,13 +1994,13 @@
  &lt;td&gt;$0.0000&lt;/td&gt;
  &lt;/tr&gt;
  &lt;tr&gt;
- &lt;td&gt;Claude Opus 4.6（CodeBuddy CLI）&lt;/td&gt;
+ &lt;td&gt;Claude Opus 4.6（CodeBuddy SDK）&lt;/td&gt;
  &lt;td&gt;-&lt;/td&gt;
  &lt;td&gt;427996/17480/0&lt;/td&gt;
  &lt;td&gt;$0.0000&lt;/td&gt;
  &lt;/tr&gt;
  &lt;tr&gt;
- &lt;td&gt;Kimi K2.5（CodeBuddy CLI）&lt;/td&gt;
+ &lt;td&gt;Kimi K2.5（CodeBuddy SDK）&lt;/td&gt;
  &lt;td&gt;-&lt;/td&gt;
  &lt;td&gt;239103/12727/0&lt;/td&gt;
  &lt;td&gt;$0.0000&lt;/td&gt;

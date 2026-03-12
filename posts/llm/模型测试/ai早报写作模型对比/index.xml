@@ -1920,6 +1920,7 @@
 &lt;li&gt;统一链路：沿用当前仓库里的 AI 早报多阶段生成逻辑与正文模板&lt;/li&gt;
 &lt;li&gt;参赛模型：GPT-5.4 xhigh、GPT-5.3 Spark xhigh、Claude Opus 4.6（CodeBuddy SDK）、Kimi K2.5（CodeBuddy SDK）&lt;/li&gt;
 &lt;li&gt;裁判模型：Kimi K2.5（CodeBuddy SDK）。它同时也是参赛者之一，结论仅供参考。&lt;/li&gt;
+&lt;li&gt;补充说明：Claude Sonnet 4.6 为后续同源补测稿，不纳入“四模型客观指标”统计。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id="模型文章"&gt;模型文章&lt;/h2&gt;
 &lt;ul&gt;
@@ -1927,6 +1928,7 @@
 &lt;li&gt;&lt;a href="https://huyunfei.cn/posts/LLM/%E6%A8%A1%E5%9E%8B%E6%B5%8B%E8%AF%95/AI%E6%97%A9%E6%8A%A5%E5%86%99%E4%BD%9C%E6%A8%A1%E5%9E%8B%E5%AF%B9%E6%AF%94/AI%E6%97%A9%E6%8A%A5%E6%A8%A1%E5%9E%8B%E5%AF%B9%E6%AF%942026-03-10-gpt-5-3-spark-xhigh/"&gt;GPT-5.3 Spark xhigh&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://huyunfei.cn/posts/LLM/%E6%A8%A1%E5%9E%8B%E6%B5%8B%E8%AF%95/AI%E6%97%A9%E6%8A%A5%E5%86%99%E4%BD%9C%E6%A8%A1%E5%9E%8B%E5%AF%B9%E6%AF%94/AI%E6%97%A9%E6%8A%A5%E6%A8%A1%E5%9E%8B%E5%AF%B9%E6%AF%942026-03-10-claude-opus-4-6/"&gt;Claude Opus 4.6（CodeBuddy SDK）&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://huyunfei.cn/posts/LLM/%E6%A8%A1%E5%9E%8B%E6%B5%8B%E8%AF%95/AI%E6%97%A9%E6%8A%A5%E5%86%99%E4%BD%9C%E6%A8%A1%E5%9E%8B%E5%AF%B9%E6%AF%94/AI%E6%97%A9%E6%8A%A5%E6%A8%A1%E5%9E%8B%E5%AF%B9%E6%AF%942026-03-10-kimi-k2-5/"&gt;Kimi K2.5（CodeBuddy SDK）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://huyunfei.cn/posts/LLM/%E6%A8%A1%E5%9E%8B%E6%B5%8B%E8%AF%95/AI%E6%97%A9%E6%8A%A5%E5%86%99%E4%BD%9C%E6%A8%A1%E5%9E%8B%E5%AF%B9%E6%AF%94/AI%E6%97%A9%E6%8A%A5%E6%A8%A1%E5%9E%8B%E5%AF%B9%E6%AF%942026-03-10-claude-sonnet-4-6/"&gt;Claude Sonnet 4.6（同源补测稿）&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id="客观指标"&gt;客观指标&lt;/h2&gt;
 &lt;table&gt;

@@ -722,31 +722,7 @@
  &lt;td&gt;&lt;a href="https://github.com/duanyytop/agents-radar/issues/188"&gt;查看来源&lt;/a&gt;&lt;/td&gt;
  &lt;/tr&gt;
  &lt;/tbody&gt;
-&lt;/table&gt;</description></item><item><title>AI早报错误稿（3.16）：生成失败</title><link>https://huyunfei.cn/posts/AI%E6%97%A9%E6%8A%A5%E9%94%99%E8%AF%AF%E7%A8%BF/2026-03/AI%E6%97%A9%E6%8A%A5%E9%94%99%E8%AF%AF%E7%A8%BF2026-03-16/</link><pubDate>Mon, 16 Mar 2026 23:54:01 +0000</pubDate><guid>https://huyunfei.cn/posts/AI%E6%97%A9%E6%8A%A5%E9%94%99%E8%AF%AF%E7%A8%BF/2026-03/AI%E6%97%A9%E6%8A%A5%E9%94%99%E8%AF%AF%E7%A8%BF2026-03-16/</guid><description>&lt;h2 id="任务信息"&gt;任务信息&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;source_date: 2026-03-16&lt;/li&gt;
-&lt;li&gt;trigger: manual:00000000-0000-0000-0000-000000000001&lt;/li&gt;
-&lt;li&gt;model: claude-opus-4.6&lt;/li&gt;
-&lt;li&gt;branch: -&lt;/li&gt;
-&lt;li&gt;started_at: 2026-03-16T23:44:57.418222+00:00&lt;/li&gt;
-&lt;li&gt;finished_at: 2026-03-16T23:54:01.091489+00:00&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id="错误详情"&gt;错误详情&lt;/h2&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-text" data-lang="text"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;top_signals 缺失
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id="说明"&gt;说明&lt;/h2&gt;
-&lt;p&gt;本稿为自动错误报告，用于排障与链路追踪，不代表正常早报内容。&lt;/p&gt;</description></item><item><title>AI早报错误稿（3.14）：生成失败</title><link>https://huyunfei.cn/posts/AI%E6%97%A9%E6%8A%A5%E9%94%99%E8%AF%AF%E7%A8%BF/2026-03/AI%E6%97%A9%E6%8A%A5%E9%94%99%E8%AF%AF%E7%A8%BF2026-03-14/</link><pubDate>Mon, 16 Mar 2026 10:40:48 +0000</pubDate><guid>https://huyunfei.cn/posts/AI%E6%97%A9%E6%8A%A5%E9%94%99%E8%AF%AF%E7%A8%BF/2026-03/AI%E6%97%A9%E6%8A%A5%E9%94%99%E8%AF%AF%E7%A8%BF2026-03-14/</guid><description>&lt;h2 id="任务信息"&gt;任务信息&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;source_date: 2026-03-14&lt;/li&gt;
-&lt;li&gt;trigger: manual:00000000-0000-0000-0000-000000000001&lt;/li&gt;
-&lt;li&gt;model: claude-opus-4.6&lt;/li&gt;
-&lt;li&gt;branch: -&lt;/li&gt;
-&lt;li&gt;started_at: 2026-03-16T10:36:58.987406+00:00&lt;/li&gt;
-&lt;li&gt;finished_at: 2026-03-16T10:40:48.353983+00:00&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id="错误详情"&gt;错误详情&lt;/h2&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-text" data-lang="text"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;narrative 字段修复后仍缺失：developer_focus_markdown
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id="说明"&gt;说明&lt;/h2&gt;
-&lt;p&gt;本稿为自动错误报告，用于排障与链路追踪，不代表正常早报内容。&lt;/p&gt;</description></item><item><title>AI早报（3.15）：GPT-5全家桶来了，但账单先炸了</title><link>https://huyunfei.cn/posts/AI%E6%97%A9%E6%8A%A5/2026-03/AI%E6%97%A9%E6%8A%A52026-03-15/</link><pubDate>Mon, 16 Mar 2026 09:00:00 +0800</pubDate><guid>https://huyunfei.cn/posts/AI%E6%97%A9%E6%8A%A5/2026-03/AI%E6%97%A9%E6%8A%A52026-03-15/</guid><description>&lt;h2 id="今日速览"&gt;今日速览&lt;/h2&gt;
+&lt;/table&gt;</description></item><item><title>AI早报（3.15）：GPT-5全家桶来了，但账单先炸了</title><link>https://huyunfei.cn/posts/AI%E6%97%A9%E6%8A%A5/2026-03/AI%E6%97%A9%E6%8A%A52026-03-15/</link><pubDate>Mon, 16 Mar 2026 09:00:00 +0800</pubDate><guid>https://huyunfei.cn/posts/AI%E6%97%A9%E6%8A%A5/2026-03/AI%E6%97%A9%E6%8A%A52026-03-15/</guid><description>&lt;h2 id="今日速览"&gt;今日速览&lt;/h2&gt;
 &lt;p&gt;昨天 OpenAI 一口气掏出了 GPT-5 的四个版本——通用的、做数学的、写代码的、全能旗舰的，外加一个独立的 Codex 编程应用，直接把 Cursor 和 Copilot 拉上了擂台。与此同时，Anthropic 掏出 1 亿美元砸向合作伙伴网络，Claude 官方插件目录也正式上线。两家巨头同一天亮牌，AI 平台战正式从「谁的模型好」打到了「谁的生态大」。&lt;/p&gt;
 &lt;p&gt;但热闹归热闹，真正在用 AI 写代码的人昨天过得并不轻松。好几款主流编程工具被用户发现计费有问题——有的是悄悄多扣了钱，有的是账单明细根本看不懂，实时监控花费的小工具 Claudetop 直接冲上了 Hacker News 热榜。OpenClaw 更惨，最新版更新后 UI 打不开、内存爆掉、消息发不出去，官方被迫紧急回滚。花钱的不透明，免费的又不稳定，这大概是昨天 AI 圈最真实的体感。&lt;/p&gt;
 &lt;p&gt;GitHub Trending 上，6 个热门项目里有 6 个在做同一件事：给 AI Agent 搭基础设施。字节开源了管理 Agent 记忆的数据库，有人做了「一整个 AI 公司」的多角色 Agent 团队，还有人用 Zig 语言写了专门给 AI 用的浏览器。社区的兴趣点正在从「怎么调模型」快速滑向「怎么让一群 Agent 协同干活」。&lt;/p&gt;
